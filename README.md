@@ -36,6 +36,25 @@ Excluded:
 6. Evaluated each insight for source quality, consistency, timeliness, confidence, and limitations.
 7. Organized the dataset, research, analysis, evidence, and final brief in a QuickSuite Space.
 
+
+### Solution architecture
+
+The workflow combines marketplace data and external research in Amazon QuickSuite, using a configured AI agent to develop and evaluate evidence-based positioning recommendations.
+
+```mermaid
+flowchart TD
+    A["Business Question & Scope"] --> B["Kaggle Marketplace Dataset"]
+    A --> C["External Market Research"]
+    B --> D["Amazon QuickSuite"]
+    C --> D
+    D --> E["Configured Market Intelligence Agent"]
+    E --> F["Evidence Synthesis & Strategic Insights"]
+    F --> G["Confidence & Limitations Review"]
+    G --> H["Executive Market Intelligence Brief"]
+```
+
+
+
 ## Key findings
 
 - Ratings and review depth provide a stronger differentiation signal than discounting alone in commoditized accessory categories.
