@@ -62,6 +62,20 @@ flowchart TD
 - Premium product positioning requires value proof through service, financing, warranty, installation, or ecosystem benefits rather than price alone.
 - Several conclusions remain directional because the dataset is a static marketplace snapshot and does not contain verified sales volume or competitor market share.
 
+## Business Applications
+
+The findings provide a foundation for several potential business decisions:
+
+- **Product positioning:** Differentiate commoditized products through customer trust, verified specifications, and product quality rather than discounting alone.
+- **Pricing strategy:** Evaluate discounting alongside customer ratings, competitive conditions, and perceived value before adjusting pricing.
+- **Catalog optimization:** Prioritize improvements to product descriptions, specifications, and listing consistency to strengthen customer confidence.
+- **Premium differentiation:** Assess warranty coverage, financing, installation, and service offerings as potential sources of competitive advantage.
+
+**Decision-making value:** The workflow demonstrates how AI-assisted market intelligence can organize fragmented information into actionable recommendations while maintaining transparency around evidence quality and uncertainty.
+
+*These are strategic applications derived from the analysis, not implemented interventions or verified financial outcomes.*
+
+
 ## Reliability controls
 
 - Evidence was separated into internal dataset signals and external research signals.
@@ -70,6 +84,20 @@ flowchart TD
 - Explicit non-conclusions prevent correlation from being presented as causation.
 
 ![Positioning opportunities and confidence assessment](08_Positioning_Opportunities_and_Confidence.png)
+
+
+## Project Evidence
+
+The following artifacts document the AI-assisted research workflow, analytical findings, and final recommendations.
+
+| Artifact | Description |
+|---|---|
+| [Research Output and Visual](05_Quick_Research_Output_and_Visual.png) | Example of Quick Research output and supporting evidence |
+| [Positioning Opportunities and Confidence Assessment](08_Positioning_Opportunities_and_Confidence.png) | Strategic opportunities and confidence evaluation |
+| [Executive Market Intelligence Brief](Amazon_India_Market_Intelligence_Final_Brief.pdf) | Final synthesis of market findings, limitations, and recommendations |
+
+These artifacts demonstrate the configured workflow and analytical deliverables. The project was completed in Amazon QuickSuite; it is not presented as an independently developed AI model.
+
 
 ## Deliverables
 
